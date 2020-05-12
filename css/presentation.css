@@ -174,7 +174,7 @@
 
 .cta__button {
   color: #fff;
-  background-color: #8017e1;
+  background-color: #0072b8;
   border: 0;
   font-family: Arial;
   font-size: 28px;
@@ -196,7 +196,7 @@
 .cta__button:hover,
 .cta__button:active,
 .focusable.cta__button:focus {
-  background-color: #39006b;
+  background-color: #00436e;
 }
 
 .fullscreen .cta--side .cta__button {
@@ -313,7 +313,7 @@
 }
 
 .timeline__cover {
-  background: #39006b;
+  background: #00436e;
 }
 
 .timeline__controls {
@@ -501,11 +501,11 @@
 }
 
 .timeline-progress-hover {
-  background-color: #39006b;
+  background-color: #8017e1;
 }
 
 .timeline-progress {
-  background-color: #8017e1;
+  background-color: #39006b;
 }
 
 .timeline-chapters--seen {
@@ -539,7 +539,7 @@
 }
 
 .timeline-volume__level {
-  background-color: #8017e1;
+  background-color: #39006b;
   border-radius: 5px;
 }
 
@@ -1137,7 +1137,7 @@
 
   .timeline-progress-indicator-ball {
     background-color: #fff;
-    border: 3px solid #8017e1;
+    border: 3px solid #0072b8;
     border-radius: 12px;
   }
 
@@ -1258,7 +1258,7 @@
 @media (any-hover: none) {
   .cta__button:hover,
   .cta__button:active {
-    background-color: #8017e1;
+    background-color: #0072b8;
   }
 
   .social--top .social__icon:hover,
